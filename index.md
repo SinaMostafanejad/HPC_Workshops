@@ -25,7 +25,7 @@ tutorial, specifically, Chapters 1, 2 and 5 for a brief overview of some of the 
 | 6. [Advanced CUDA Programming in Computer and Molecular Sciences](http://education.molssi.org/gpu_programming_advanced) | Special topics in CUDA C/C++ programming and its applications in computer and molecular sciences | (A) |
 | 7. [Data-Parallel C++ and OneAPI: A Unified Approach to Heterogeneous Parallel Programming](http://education.molssi.org/HPC_Workshops) | A unified programming model across accelerator architectures | (A) |
 | 8. [Modern Platforms for Heterogeneous Parallel Programming](http://education.molssi.org/HPC_Workshops) | Cutting-Edge trends in heterogeneous parallel programming models  | (B,I,A) |
-[\* Level abbreviations: (B) = Beginner, (I) = Intermediate, and (A) = Advanced]
+|\* Level abbreviations: (B) = Beginner, (I) = Intermediate, and (A) = Advanced | | |
 
 
 {% include links.md %}
