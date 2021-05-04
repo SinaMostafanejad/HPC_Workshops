@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "MolSSI Heterogeneous Parallel Programming Workshops"
+title: "MolSSI High-Performance Computing Workshop Series"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
