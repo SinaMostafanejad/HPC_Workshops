@@ -2,8 +2,8 @@
 ---
 
 The following represents the [Molecular Sciences Software Institute]({{ site.molssi_site }})(MolSSI) workshop 
-series in heterogeneous parallel programming with CUDA C/C++ at the beginner, intermediate and advanced levels.
-To see the full MolSSI's education mission statement, please see [here](http://molssi.org/education/education-mission-statement/).
+series for high-performance computing. To see the full MolSSI's education mission statement, 
+please see [here](http://molssi.org/education/education-mission-statement/).
 
 > ## Prerequisites
 >
